@@ -36,7 +36,8 @@ CREATE OR REPLACE PROCEDURE emp_data AS
 ```
 
 ### Output:
-![image](https://github.com/varshxnx/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/122253525/aab1d2c1-3057-413e-aa29-e0cd7381ee4c)
+![image](https://github.com/varshxnx/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/122253525/3a1ec2e0-6671-4920-aa61-dacc26d6672c)
+
 
 
 ### Result:
